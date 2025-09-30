@@ -95,7 +95,7 @@ lib/
 ```bash
 git clone https://github.com/nadiakhaled1411999/widget_catalog_app
 
-2. Navigate to the project folder:
+2. **Navigate to the project folder**:
 
  ```bash
  
