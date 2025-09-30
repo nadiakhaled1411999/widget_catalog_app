@@ -88,31 +88,6 @@ lib/
 
 
 ---
- 🚀 Getting Started
-
-1. **Clone the repository:**
-
-```bash
-git clone https://github.com/nadiakhaled1411999/widget_catalog_app
-
-2. **Navigate to the project folder**:
-
- ```bash
- 
-cd widget_catalog_app
-
-3. Get dependencies:
-
- ```bash 
- 
-flutter pub get
-
-4. Run the app:
-
-  ```bash
- 
-flutter run
----
 
 👩‍💻 Flutter Developer
 
