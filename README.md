@@ -86,7 +86,6 @@ lib/
 ├─ draggable_scrollable_sheet.dart
 └─ notification_listener.dart
 
- 
 
 ---
  🚀 Getting Started
@@ -94,26 +93,27 @@ lib/
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/your-username/widget_catalog_app.git
+git clone https://github.com/nadiakhaled1411999/widget_catalog_app
 
-##Navigate to the project folder:
+2. Navigate to the project folder:
 
-bash
-نسخ الكود
+ ```bash
+ 
 cd widget_catalog_app
 
-##Get dependencies:
+3. Get dependencies:
 
-bash
-نسخ الكود
+ ```bash 
+ 
 flutter pub get
 
-##Run the app:
+4. Run the app:
 
-bash
-نسخ الكود
+  ```bash
+ 
 flutter run
 ---
+
 👩‍💻 Flutter Developer
 
 Built with ❤️ by Eng. Nadia Khaled
