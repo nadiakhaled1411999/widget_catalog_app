@@ -1,5 +1,4 @@
 
-https://github.com/user-attachments/assets/809f3ced-d3f9-4b4d-9f00-92d2a4490f94
  #  Widget_Catalog_app 🚀
 
 A simple Flutter project showcasing **lesser-known and powerful Flutter widgets** with interactive demos.  
@@ -90,31 +89,31 @@ lib/
  
 
 ---
+ 🚀 Getting Started
 
-🚀 Getting Started
-
-1. Clone or download the repository:
+1. **Clone the repository:**
 
 ```bash
 git clone https://github.com/your-username/widget_catalog_app.git
 
-Navigate to the project folder:
+##Navigate to the project folder:
 
- ```bash
- 
-cd widget-catalog_app
-Get dependencies:
+bash
+نسخ الكود
+cd widget_catalog_app
 
- ```bash
- 
+##Get dependencies:
+
+bash
+نسخ الكود
 flutter pub get
-Run the app:
 
- ```bash
- 
+##Run the app:
+
+bash
+نسخ الكود
 flutter run
-From the home screen, select any widget to explore its interactive demo.
-
+---
 👩‍💻 Flutter Developer
 
 Built with ❤️ by Eng. Nadia Khaled
